@@ -1,0 +1,36 @@
+[33mcommit 93d1d4621a1071334038251a017420a415c5390c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: a3b2eda 9de00ef
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Sat Feb 8 00:33:54 2025 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit a3b2eda8835062da4aad3129e6bdead9c8e6694c[m
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Sat Feb 8 00:30:53 2025 -0500
+
+    E: fill contents.md
+
+[33mcommit 9de00ef28a5f894b9c789938538fbdde32ef98cf[m
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Sat Feb 8 00:20:17 2025 -0500
+
+    D: classics
+
+[33mcommit 36b24590e55b10be4844b1752c10dc299c724ffc[m
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Fri Feb 7 23:34:14 2025 -0500
+
+    C: add quotes
+
+[33mcommit 476063eee12589f026c92ac13cd85858edcb0523[m
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Tue Sep 10 22:59:19 2024 -0400
+
+    B: add titles.md
+
+[33mcommit aa3bfbededba6805542661951b672f3360e8b645[m
+Author: SlverSkull <legokiley@gmail.com>
+Date:   Thu Aug 22 17:13:14 2024 -0400
+
+    A: add contents.md
